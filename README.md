@@ -1,2 +1,2 @@
-# AutomaticalSelenium
+# AutomaticallySelenium
 Testing in Selenium WebDriver
